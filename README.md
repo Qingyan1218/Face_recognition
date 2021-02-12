@@ -1,1 +1,2 @@
 # Face_recognition
+采用带注意力机制的resnet和triplet_loss对人脸特征向量进行回归。
